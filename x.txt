@@ -1,0 +1,12 @@
+Cloudera trabaja en el contexto de Big Data como una plataforma integral que permite a las organizaciones almacenar, procesar y analizar grandes volúmenes de datos distribuidos de manera eficiente y segura. Su arquitectura distribuida y su conjunto de herramientas permiten gestionar datos en tiempo real, extraer información valiosa y optimizar la toma de decisiones basada en datos masivos.
+
+arma una lista de posibles costos del desarrollo, promoción, lanzamiento de la plataforma y venta de los servicios monetizables.
+
+información básica sobre costos, supuestos, ingresos, y requerimientos operativos y administrativos.
+
+plan de negocio.
+
+
+Quiero implementar un negocio similar a Cloudera, puedes armar un plan de negocio que contenga información básica sobre costos, supuestos, ingresos, y requerimientos operativos y administrativos.
+
+Quiero implementar un negocio similar a Cloudera, en Peru, arma una lista de posibles costos del desarrollo, promoción, lanzamiento de la plataforma y venta de los servicios monetizables.
