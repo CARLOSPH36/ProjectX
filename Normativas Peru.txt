@@ -1,0 +1,4 @@
+En Perú, la normativa que más se asemeja a la GDPR de la Unión Europea es la Ley de Protección de Datos Personales (Ley N° 29733) y su reglamento, aprobado mediante el Decreto Supremo N° 003-2013-JUS. Esta ley tiene como objetivo proteger los datos personales que se encuentren en bases de datos en Perú, ya sean administradas por entidades públicas o privadas.
+
+- La normativa protegue los datos que se encuentren en bases de datos en Perú, o los datos de los Peruanos, asi como la GDPR que protegue los datos de los ciudadnos de EU en cualquier parte del mundo?
+
