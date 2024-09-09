@@ -5,6 +5,7 @@ to provide an evolving feedback loop to your security team:
 Cyber threat intelligence analysis
 Defensive engagement of the threat
 Focused sharing and collaboration
+
 Let’s take a look at each of these individually.
 
 Cyber Threat Intelligence Analysis
