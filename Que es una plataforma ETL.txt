@@ -1,0 +1,35 @@
+
+Una plataforma ETL (Extract, Transform, Load) es una herramienta que facilita el proceso de integración de datos. Aquí te explico qué es y cómo funciona:
+
+### Qué es una plataforma ETL
+
+Una plataforma ETL es un sistema diseñado para extraer datos de múltiples fuentes, transformarlos para adecuarlos a las necesidades específicas del negocio y cargarlos en un repositorio centralizado, como un almacén de datos (data warehouse) o una base de datos. Estas plataformas son esenciales para la integración de datos y el análisis de información en grandes volúmenes.
+
+### Cómo funciona una plataforma ETL
+
+El proceso ETL se divide en tres fases principales:
+
+1. **Extracción (Extract)**: 
+   - **Objetivo**: Obtener datos de diversas fuentes.
+   - **Cómo se hace**: La plataforma ETL se conecta a diferentes fuentes de datos, como bases de datos relacionales, sistemas ERP, archivos CSV, APIs web, entre otros. Extrae la información de estas fuentes y la recoge en un formato temporal, a menudo en una etapa intermedia conocida como “staging area” o área de preparación.
+
+2. **Transformación (Transform)**: 
+   - **Objetivo**: Limpiar, convertir y estructurar los datos para que sean útiles.
+   - **Cómo se hace**: Una vez extraídos, los datos se transforman para cumplir con las necesidades del análisis o del sistema de destino. Esto puede incluir:
+     - **Limpieza**: Eliminar duplicados, corregir errores y manejar valores faltantes.
+     - **Conversión**: Cambiar el formato de los datos, por ejemplo, convertir fechas de diferentes formatos a un formato estándar.
+     - **Enriquecimiento**: Agregar datos adicionales o realizar cálculos para mejorar la calidad y el contexto de la información.
+     - **Integración**: Combinar datos provenientes de distintas fuentes en un solo conjunto coherente.
+
+3. **Carga (Load)**:
+   - **Objetivo**: Almacenar los datos transformados en el destino final.
+   - **Cómo se hace**: Los datos transformados se cargan en un repositorio final, como un data warehouse, una base de datos analítica o una solución de almacenamiento en la nube. La carga puede ser realizada de manera completa (cargar todos los datos) o incremental (cargar solo los datos nuevos o modificados desde la última carga).
+
+### ¿Por qué usar una plataforma ETL?
+
+- **Centralización de Datos**: Permite consolidar datos de múltiples fuentes en un solo lugar, facilitando el análisis y la generación de informes.
+- **Calidad de Datos**: Asegura que los datos estén limpios y bien formateados, mejorando la precisión de las decisiones basadas en datos.
+- **Eficiencia**: Automatiza y agiliza el proceso de integración de datos, reduciendo la carga manual y el riesgo de errores.
+
+Las plataformas ETL pueden variar en complejidad, desde soluciones empresariales robustas hasta herramientas más simples y especializadas para casos de uso específicos.
+

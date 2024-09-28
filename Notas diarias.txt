@@ -1,0 +1,46 @@
+
+En el contexto de Scrum, una épica es un tipo de tarea o historia de usuario de gran tamaño que no puede completarse dentro de un solo sprint (el ciclo de trabajo típico en Scrum, que dura de 1 a 4 semanas). Las épicas representan objetivos o funcionalidades grandes y complejas que deben desglosarse en tareas más pequeñas y manejables llamadas historias de usuario o subtareas.
+
+Características clave de las épicas en Scrum:
+Alto nivel: Una épica describe una funcionalidad o un conjunto de funcionalidades de alto nivel, sin entrar en detalles precisos.
+Desglose: Para ser implementada, una épica debe dividirse en historias de usuario más pequeñas, que son lo suficientemente concretas para completarse dentro de un sprint.
+Duración: Mientras que las historias de usuario se completan en un sprint, una épica puede requerir varios sprints o incluso abarcar múltiples versiones del producto.
+Prioridad flexible: Las épicas no siempre tienen una fecha de finalización fija. A menudo se refinan y ajustan a medida que el equipo avanza y las necesidades del producto evolucionan.
+Las épicas ayudan a organizar el trabajo en Scrum, asegurando que el equipo no pierda de vista los objetivos más grandes mientras sigue trabajando en tareas más pequeñas y manejables.
+
+
+Que es una plataforma ETL en el contexto de Big Data?
+ChatGPT dijo:
+ChatGPT
+Una plataforma ETL en el contexto de Big Data es una solución tecnológica que facilita los procesos de Extracción, Transformación y Carga (Extract, Transform, Load) de datos, específicamente diseñada para manejar grandes volúmenes de información provenientes de diversas fuentes. Estas plataformas permiten recoger datos de diferentes orígenes, procesarlos para cumplir con ciertos criterios de calidad o estructura, y luego cargarlos en sistemas de almacenamiento o análisis, como un data warehouse o data lake.
+
+Desglose de las fases del proceso ETL:
+Extracción (Extract):
+
+Recoge datos de múltiples fuentes que pueden ser bases de datos, archivos, APIs, sensores IoT, flujos en tiempo real, etc.
+En Big Data, las fuentes pueden ser altamente heterogéneas y pueden incluir datos estructurados (bases de datos SQL), semi-estructurados (JSON, XML) y no estructurados (imágenes, videos, logs).
+Transformación (Transform):
+
+Los datos se limpian, filtran, normalizan y transforman para adaptarse al formato o esquema requerido para el análisis.
+Las transformaciones pueden incluir agregaciones, filtrado de datos irrelevantes, enriquecimiento de datos y normalización de formatos.
+En el caso de Big Data, esta fase implica manejar grandes volúmenes de datos a través de algoritmos distribuidos para mantener la eficiencia.
+Carga (Load):
+
+Después de la transformación, los datos se cargan en un sistema de almacenamiento de destino, como un data warehouse (almacén de datos) para análisis estructurado, o un data lake para almacenamiento masivo de datos en bruto.
+Características de una plataforma ETL en Big Data:
+Escalabilidad: Debe ser capaz de manejar grandes volúmenes de datos (terabytes o petabytes) y adaptarse al crecimiento de los datos.
+Procesamiento distribuido: Muchas plataformas ETL en Big Data usan tecnologías como Hadoop, Spark o Flink para procesar datos de manera distribuida y paralela, aprovechando la potencia de múltiples nodos.
+Velocidad y eficiencia: La plataforma debe ser capaz de procesar grandes cantidades de datos rápidamente, a menudo en tiempo real o casi en tiempo real.
+Soporte para datos no estructurados: Las plataformas ETL para Big Data deben manejar datos en una variedad de formatos no estructurados y semi-estructurados, lo cual es común en entornos de Big Data.
+Integración con ecosistemas Big Data: Estas plataformas suelen integrarse con tecnologías como HDFS (Hadoop Distributed File System), bases de datos NoSQL, y herramientas de análisis avanzadas como Apache Hive, Impala, o Presto.
+Ejemplos de plataformas ETL para Big Data:
+Apache NiFi: Diseñado para la automatización del flujo de datos y procesamiento en tiempo real.
+Talend Big Data: Proporciona herramientas visuales para gestionar procesos ETL en entornos de Big Data.
+Informatica PowerCenter: Una plataforma ETL robusta que se integra con ecosistemas de Big Data.
+AWS Glue: Un servicio en la nube que automatiza el proceso ETL para datos almacenados en AWS.
+En resumen, una plataforma ETL en Big Data es fundamental para gestionar y preparar datos a gran escala, lo que facilita el análisis avanzado y la toma de decisiones basadas en grandes volúmenes de información.
+
+datablitz.com.pe
+carlosph36@gmail.com
+xavier@datablitz.com.pe
+
