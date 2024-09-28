@@ -1,0 +1,28 @@
+En el contexto de la ciberseguridad, un framework (o marco de trabajo) es un conjunto estructurado de guías, mejores prácticas, estándares, y herramientas diseñadas para ayudar a las organizaciones a gestionar, proteger, y asegurar sus sistemas de información. Los frameworks proporcionan un enfoque sistemático para identificar, mitigar, y responder a las amenazas y vulnerabilidades de ciberseguridad.
+
+Características Clave de un Framework de Ciberseguridad:
+Estructura Organizativa: Los frameworks suelen estar organizados en categorías o dominios que abordan diferentes aspectos de la ciberseguridad, como la identificación de riesgos, la protección de activos, la detección de incidentes, la respuesta y recuperación, etc.
+
+Mejores Prácticas: Incluyen recomendaciones y mejores prácticas que las organizaciones pueden seguir para fortalecer su postura de seguridad.
+
+Estándares y Normas: A menudo, los frameworks se basan en estándares internacionales o nacionales, como ISO/IEC 27001 o NIST, lo que garantiza que las prácticas sean reconocidas y aceptadas globalmente.
+
+Adaptabilidad: Los frameworks están diseñados para ser adaptables y aplicables a diferentes tipos de organizaciones, independientemente de su tamaño o sector.
+
+Evaluación y Medición: Proporcionan métricas y métodos para evaluar la eficacia de las políticas de seguridad y realizar ajustes cuando sea necesario.
+
+Ejemplos de Frameworks de Ciberseguridad:
+NIST Cybersecurity Framework (CSF): Desarrollado por el Instituto Nacional de Estándares y Tecnología de EE.UU., este marco proporciona un enfoque basado en cinco funciones principales: Identificar, Proteger, Detectar, Responder y Recuperar.
+
+ISO/IEC 27001: Un estándar internacional que especifica los requisitos para establecer, implementar, mantener y mejorar continuamente un Sistema de Gestión de Seguridad de la Información (SGSI).
+
+MITRE ATT&CK: Un framework que clasifica y describe las técnicas y tácticas utilizadas por los adversarios en ciberseguridad, proporcionando un lenguaje común para describir ataques y planificar defensas.
+
+CIS Controls: Un conjunto de controles específicos diseñados para proporcionar una defensa de ciberseguridad efectiva, enfocándose en los aspectos más críticos para la seguridad de la información.
+
+Importancia de los Frameworks en Ciberseguridad:
+Consistencia: Proporcionan un enfoque consistente y replicable para manejar la ciberseguridad en diferentes entornos.
+Compliance: Ayudan a las organizaciones a cumplir con regulaciones y requisitos legales en materia de ciberseguridad.
+Mejora Continua: Facilitan la evaluación continua y la mejora de la seguridad, lo que es esencial en un entorno de amenazas en constante evolución.
+En resumen, un framework en ciberseguridad es una herramienta esencial que ayuda a las organizaciones a protegerse contra ciberamenazas de manera estructurada y eficiente.
+
